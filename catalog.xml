@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/ADRI/Documents/NetBeansProjects/ManejarXML/libreria.xsd" uri="xml-resources/jaxb/Ejemplo_Binding_JAXB/libreria.xsd"/>
+    <system systemId="file:/C:/Users/ADRI/Documents/NetBeansProjects/M06_ManejarXML_0/libreria.xsd" uri="xml-resources/jaxb/Enlace_JavaLibros/libreria.xsd"/>
+    <system systemId="file:/C:/Users/ADRI/Documents/NetBeansProjects/CURSO2DAM/M06_ManejarXML_0/libreria.xsd" uri="xml-resources/jaxb/Enlace_JavaLibros/libreria.xsd"/>
+</catalog>
